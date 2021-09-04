@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=diosamuel&show_icons=true&theme=synthwave)
+![github stats](https://github-readme-stats.vercel.app/api?username=diosamuel&show_icons=true)
 
 ### Hi there 👋
 
