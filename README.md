@@ -3,14 +3,3 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
----
-## Projects
-
-### [Google Form Bot](https://t.me/kerjaingform_bot)
-
-Telegram Bot to work on Google Form questions
-
-### [ZippyDamn CLI](https://www.npmjs.com/package/zippydamn)
-### [ZippyDamn Library](https://www.npmjs.com/package/zippydamn-lib)
-
-Zippyshare downloader CLI / Library
