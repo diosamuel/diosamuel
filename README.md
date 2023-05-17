@@ -2,7 +2,7 @@
 Student
 
 [website](https://vsam.my.id) |
-[read.cv](https://vsam.my.id) |
+[read.cv](https://read.cv/xy) |
 [dribbble](https://dribbble.com/diosamuel)
 ---
 <a href="https://app.daily.dev/diosamuel"><img src="./devcard.svg" width="300" alt="Samuel's Dev Card"/></a>
