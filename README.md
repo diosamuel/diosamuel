@@ -5,7 +5,7 @@ Student
 [read.cv](https://read.cv/xy) |
 [dribbble](https://dribbble.com/diosamuel)
 ---
-<a href="https://app.daily.dev/diosamuel"><img src="./devcard.svg" width="300" alt="Samuel's Dev Card"/></a>
+<a href="https://app.daily.dev/login"><img src="./devcard.svg" width="300" alt="Samuel's Dev Card"/></a>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
