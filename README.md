@@ -1,13 +1,12 @@
-# About
-Student
+# Ordinary Student
 
-[website](https://vsam.my.id) |
+[Website](https://vsam.my.id) |
 [read.cv](https://read.cv/xy) |
-[dribbble](https://dribbble.com/diosamuel)
+[Dribbble](https://dribbble.com/diosamuel)
 ---
 <a href="https://app.daily.dev/login"><img src="./devcard.svg" width="300" alt="Samuel's Dev Card"/></a>
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
