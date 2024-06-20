@@ -1,5 +1,4 @@
 # Ordinary Student
-
 [Website](https://vsam.my.id) |
 [read.cv](https://read.cv/xy) |
 [Dribbble](https://dribbble.com/diosamuel)
@@ -8,10 +7,9 @@
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<h3>Here is the CCTV footage of Jagorawi Toll (refresh to update)</h3>
+<!-- <img src="https://jid.jasamarga.com/cctv2/8ad5b84?tx=1646733773121&t=20220915105759169" width=500/> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://jid.jasamarga.com/cctv2/8ad5b84?tx=1646733773121&t=20220915105759169"/>
+<img src="https://jid.jasamarga.com/cctv2/3679696?tx=1646733773121&t=202209141723179311718882610984" width=500/>
