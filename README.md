@@ -1,5 +1,5 @@
 # Ordinary Student
-[Website](https://vsam.my.id) |
+[Website](https://diosamuel.netlify.app) |
 [read.cv](https://read.cv/xy) |
 [Dribbble](https://dribbble.com/diosamuel)
 ---
