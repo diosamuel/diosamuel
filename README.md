@@ -12,6 +12,6 @@
 <h3>Here is the CCTV footage of Jagorawi Toll (refresh to update)</h3>
 <!-- <img src="https://jid.jasamarga.com/cctv2/8ad5b84?tx=1646733773121&t=20220915105759169" width=500/> -->
 
-<img src="https://jid.jasamarga.com/cctv2/83804ca?tx=1646733773121&t=20220915111905478" width=500/>
+<img src="https://jid.jasamarga.com/cctv2/a75bebf?tx=1646733773121&t=20220915111338313" width=500/>
 
 
