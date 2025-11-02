@@ -1,19 +1,15 @@
-I am a final-year Data Science student at Sumatera Institute of Technology, aspiring to build a career as a Data Engineer or Cloud Engineer, while also having a strong passion for Web Development and UI/UX design.
+Virdio Samuel Saragih
 
-[Instagram](https://instagram.com/data.gear) |
-[Website](https://riset.tech) |
-[Dribbble](https://dribbble.com/diosamuel)
----
-<a href="https://app.daily.dev/login"><img src="./devcard.svg" width="300" alt="Samuel's Dev Card"/></a>
+21 y.o @ ITERA Data Science Student, trying to be consistent & better everyday.
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diosamuel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Here lies my personal website 👀
 
+[riset.tech](https://riset.tech) and [blog.riset.tech](https://blog.riset.tech)
 
-<h3>Here is the CCTV footage of Jagorawi Toll (refresh to update)</h3>
-<!-- <img src="https://jid.jasamarga.com/cctv2/8ad5b84?tx=1646733773121&t=20220915105759169" width=500/> -->
+### ⚙️ I try to do some Data Engineer stuff
 
-<img src="https://jid.jasamarga.com/cctv2/a75bebf?tx=1646733773121&t=20220915111338313" width=500/>
+[data.gear @ instagram](https://instagram.com/data.gear)
 
+### Also, i love UI/UX and Web Design, here my UI/UX portfolio 🎨
 
+[some ui/ux things](https://dribbble.com/diosamuel)
